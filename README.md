@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Punit Makani – AKA IronSnapper 🧜🏻‍♂️ </h1>
-<h3 align="center">I am a Scientific Researcher at LungAnalysis, Erasmus MC, Rotterdam 📄</h3>
+<h3 align="center">I am a Head of LungAnalysis, Erasmus MC, Rotterdam 📄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironsnapper&label=Profile%20views&color=0e75b6&style=flat" alt="ironsnapper" /> </p>
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/punitkumar-makani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punitkumar-makani" height="30" width="40" /></a>
-<a href="https://instagram.com/punit_makani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punit_makani" height="30" width="40" /></a>
+<a href="https://instagram.com/punit_makani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="attheendgame" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
